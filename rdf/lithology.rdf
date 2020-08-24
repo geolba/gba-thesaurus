@@ -13714,7 +13714,7 @@
 </rdf:Description>
 
 <rdf:Description rdf:about="http://resource.geolba.ac.at/lithology/235">
-	<definition xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">A mixed carbonate-clastic rock in which the clastic portion is restricted to sand-sized components. Consists of 50-75% calcite and 25-50% sand (Füchtbauer, 1988).</definition>
+	<definition xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">A mixed carbonate-clastic sediment in which the clastic portion is restricted to sand-sized components. Consists of 50-75% calcite and 25-50% sand (Füchtbauer, 1988).</definition>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://resource.geolba.ac.at/lithology/7">
